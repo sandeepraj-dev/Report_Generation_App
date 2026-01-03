@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691940929778",
+    "project_id": "shree-murugan-service-db-72261",
+    "storage_bucket": "shree-murugan-service-db-72261.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691940929778:android:e8051f7a80ad7957a7e06b",
+        "android_client_info": {
+          "package_name": "com.example.report_generation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEEYmsJhB3LKMpH9WZrBXfdDUz_IvOBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
